@@ -1,0 +1,6 @@
+#
+#### Requirements for TwitCommandBot ####
+#
+pip install sparkpost
+pip install smtplib
+pip install tweepy
